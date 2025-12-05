@@ -1,0 +1,14 @@
+# Core
+gradio==4.44.1
+huggingface-hub>=0.17.2
+python-dotenv>=1.0.1
+
+# Optional (if using extra NLP/ML utilities)
+torch>=2.1.0
+transformers>=4.35.0
+
+# Networking / HTTP requests
+requests>=2.31.0
+
+# For typing & utils
+typing-extensions>=4.7.1

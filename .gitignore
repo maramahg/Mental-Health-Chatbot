@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+backend/venv/
+chatbot/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+*.env
+
+# Ignore temp files
+.DS_Store
